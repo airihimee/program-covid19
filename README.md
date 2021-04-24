@@ -1,5 +1,5 @@
 # program-covid19
-Program Covid-19 sederhana menggunakan bahasa C++.
+Program Covid-19 sederhana menggunakan bahasa C++ yang saya buat pada tgl 04 April 2020.
 Terdapat 3 menu yaitu:
 1) Prediksi covid-19.
   Terinspirasi dari video Jerome Pollin tentang "BAHAS PANDEMI COVID 19 DENGAN RUMUS MATEMATIKA!"
